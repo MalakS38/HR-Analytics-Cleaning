@@ -4,7 +4,7 @@ Before meaningful insights can be visualized, the dataset must be organized, cle
 
 
 **Dataset Source:**  
-🔗 [Kaggle – HR Analytics Prediction Dataset](https://www.kaggle.com/datasets/rishikeshkonapure/hr-analytics-prediction)
+[Kaggle – HR Analytics Prediction Dataset](https://www.kaggle.com/datasets/rishikeshkonapure/hr-analytics-prediction)
 
 ---
 
